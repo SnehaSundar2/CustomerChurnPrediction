@@ -1,0 +1,13 @@
+customer_id,contract,internet_service,tenure_months,monthly_charges,total_charges,support_calls,late_payments,payment_method,paperless_billing,tech_support,online_security
+C001,Month-to-month,Fiber,3,92.5,277.5,5,1,Manual payment,yes,no,no
+C002,Two year,DSL,48,55,2640,0,0,Bank transfer (auto),no,yes,yes
+C003,Month-to-month,Fiber,14,88,1232,2,0,UPI autopay,yes,no,yes
+C004,One year,DSL,20,47,940,1,0,Credit card (auto),no,yes,no
+C005,Prepaid,DSL,12,50,600,1,0,UPI autopay,no,no,no
+C006,Month-to-month,None,8,22,176,0,0,Manual payment,no,no,no
+C007,Month-to-month,DSL,10,45,450,1,0,card,yes,yes,no
+C008,Two year,Fiber,60,98,5880,3,1,Bank transfer (auto),yes,no,no
+C009,Month-to-month,None,6,20,120,1,0,UPI autopay,no,yes,no
+C010,One year,Fiber,2,85,170,6,2,Manual payment,yes,no,no
+C011,Month-to-month,Fiber,150,95,14250,1,0,Manual payment,yes,no,no
+C012,Month-to-month,Fiber,9,80,,,,,,,
